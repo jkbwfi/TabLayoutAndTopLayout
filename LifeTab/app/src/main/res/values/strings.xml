@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifeTab</string>
+    <string name="wecat">微信</string>
+    <string name="contact">袭人</string>
+    <string name="order">订单</string>
+    <string name="my">我的</string>
+</resources>
